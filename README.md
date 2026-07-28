@@ -253,6 +253,7 @@ A curated collection of research papers on LLM-based agents and agent training m
 ## 🎯 Agent Evaluation & Benchmark
 | Title | Venue | Date | Code | Stars |
 |-------|-------|------|------|-------|
+| [ClawBench: A Comprehensive Benchmark for Web Agents](https://arxiv.org/abs/2604.08523) | arXiv | 2026-04 | [GitHub](https://github.com/TIGER-AI-Lab/ClawBench) | ![](https://img.shields.io/github/stars/TIGER-AI-Lab/ClawBench?style=social) |
 | [MCP-AgentBench: Evaluating Real-World Language Agent Performance with MCP-Mediated Tools](https://arxiv.org/abs/2509.09734) | arXiv | 2025-09 | - | - |
 | [GitTaskBench: A Benchmark for Code Agents](https://arxiv.org/abs/2508.18993) | arXiv | 2025-08 | [GitHub](https://github.com/QuantaAlpha/GitTaskBench) | ![](https://img.shields.io/github/stars/QuantaAlpha/GitTaskBench?style=social) |
 | [MLE-bench: Evaluating Machine Learning Agents on ML Engineering](https://arxiv.org/abs/2410.07095) | ICLR 2025 | 2024-10 | [GitHub](https://github.com/openai/mle-bench) | ![](https://img.shields.io/github/stars/openai/mle-bench?style=social) |
