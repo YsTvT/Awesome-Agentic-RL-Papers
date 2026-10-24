@@ -165,6 +165,7 @@ A curated collection of research papers on LLM-based agents and agent training m
 
 | Title | Venue | Date | Code | Stars |
 |-------|-------|------|------|-------|
+| [Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction](https://arxiv.org/abs/2601.12762) | arXiv | 2026-01 | [GitHub](https://github.com/NEUIR/ToolMaster) | ![](https://img.shields.io/github/stars/NEUIR/ToolMaster?style=social) |
 | [StepTool: Enhancing Multi-Step Tool Usage in LLMs via Step-Grained Reinforcement Learning](https://arxiv.org/abs/2410.07745) | CIKM 2025 | 2025-08 | [GitHub](https://github.com/yuyq18/StepTool) |![](https://img.shields.io/github/stars/yuyq18/StepTool?style=social) |
 | [Tool-Planner: Task Planning with Clusters across Multiple Tools](https://arxiv.org/abs/2405.14751) | ICLR 2025 | 2025-08 | [GitHub](https://github.com/OceannTwT/Tool-Planner) |![](https://img.shields.io/github/stars/OceannTwT/Tool-Planner?style=social) |
 | [GTool: Graph Enhanced Tool Planning with Large Language Model](https://arxiv.org/abs/2508.12725) | arXiv | 2025-08 | - | - |
